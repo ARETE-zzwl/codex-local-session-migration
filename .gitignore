@@ -1,0 +1,5 @@
+.migration-test-*/
+*.zip
+*.sha256
+*.receipt.json
+*.restore-receipt.json

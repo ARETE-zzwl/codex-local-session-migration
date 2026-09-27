@@ -1,0 +1,4 @@
+interface:
+  display_name: "Codex Local Session Migration"
+  short_description: "Safely export and restore local Codex session history."
+  default_prompt: "Export or restore local Codex sessions while excluding credentials and verifying the migration bundle."
